@@ -1,4 +1,10 @@
-### Hi there 👋
+# Mário Allan Lehmkuhl de Abreu
+### Hi there / Olá 👋
+
+🌱 Atualmente estou aprendendo: R, Python;
+💻 Linguagens praticadas: Shell script, C, C++, VHDL, SQL, Python;
+📫 Contato: https://www.linkedin.com/in/marioallan-la/ | marioallan.la@gmail.com;
+
 
 <!--
 **marioallan/marioallan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
