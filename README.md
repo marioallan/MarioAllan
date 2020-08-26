@@ -1,8 +1,10 @@
 # Mário Allan Lehmkuhl de Abreu
 ### Hi there / Olá 👋
 
-🌱 Atualmente estou aprendendo: R, Python;
+🌱 Atualmente estou aprendendo: Verilog;
+<br>
 💻 Linguagens praticadas: Shell script, C, C++, VHDL, SQL, Python;
+<br>
 📫 Contato: https://www.linkedin.com/in/marioallan-la/ | marioallan.la@gmail.com;
 
 
