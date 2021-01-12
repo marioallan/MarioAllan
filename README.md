@@ -1,7 +1,7 @@
 # Mário Allan Lehmkuhl de Abreu
 ### Hi there / Olá 👋
 
-🌱 Atualmente estou aprendendo: Verilog e c#;
+🌱 Atualmente estou aprendendo: Verilog e C#;
 <br>
 💻 Linguagens praticadas: Shell script, C, C++, VHDL, SQL, Python;
 <br>
